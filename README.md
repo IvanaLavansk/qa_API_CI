@@ -1,3 +1,5 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/gpg2irwdgd7ra5x7?svg=true)](https://ci.appveyor.com/project/IvanaLavansk/qa-api-ci)
+
 # Домашнее задание к занятию «1.2. Тестирование API, CI»
 В качестве результата пришлите ссылку на ваш GitHub-проект в личном кабинете студента на сайте netology.ru.
 
